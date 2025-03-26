@@ -165,7 +165,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Ammarah proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but you proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",

@@ -14,7 +14,6 @@ import {
   mongodb,
   git,
   figma,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -22,7 +21,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +45,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React & UI Engineer",
     icon: mobile,
   },
   {
@@ -54,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Real-Time App Specialist",
     icon: creator,
   },
 ];
@@ -96,10 +95,7 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  
   {
     name: "git",
     icon: git,
@@ -108,19 +104,16 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+ 
 ];
 
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Saigol Group",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "July 2024 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -130,10 +123,10 @@ const experiences = [
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
+    company_name: "Treet Corporation",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Feb 2023 - Aug 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,10 +136,10 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "Systems Limited",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Aug 2022 - Feb 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -156,10 +149,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "Fecto Group",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2022 - June 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -172,7 +165,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Ammarah proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,16 +173,16 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Ammarah does.",
+    name: "Hassaan Ashir",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After Ammarah optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Ayesha Rehman",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
